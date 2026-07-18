@@ -1,4 +1,4 @@
-# 8-Week-SQL-Challenges
+# 8-Week-SQL-Challenge
 This repository holds my solutions to the 8 case studies from the #8WeekSQLChallenge.
 
 It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
